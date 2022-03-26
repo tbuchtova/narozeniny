@@ -1,0 +1,17 @@
+body {
+  background-color: darkcyan;
+  display: flex;
+  font-size: 80px;
+  text-align: center;
+  font-family: sans-serif;
+}
+
+.narozeniny--valid {
+  color: white;
+  background-color: rgb(2, 173, 173);
+}
+
+.narozeniny--invalid {
+  color: white;
+  background-color: crimson;
+}
